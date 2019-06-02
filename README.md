@@ -14,6 +14,6 @@ Note: All the notebooks are based on Python 3.0. Please click on
 * [Data Visualization](https://github.com/SangwookCheon/python-datascience/tree/master/Data%20Visualization%20with%20Python) - Visualizing data to gain initial insights.
 * [Databases and SQL](https://github.com/SangwookCheon/python-datascience/tree/master/Databases%20and%20SQL) - Managing large datasets, or Big Data, for machine learning.
 * [Machine Learning](https://github.com/SangwookCheon/python-datascience/tree/master/Machine%20Learning) - Various supervised and unsupervised machine learning models using libraries like Keras, scikit-learn, Tensorflow, etc.
-* [Python Review](https://github.com/SangwookCheon/python-datascience/tree/master/Python%20Review) - Review of basic Python concepts, and focus more specifically on skills needed for Data Science.  
+* [Python Review](https://github.com/SangwookCheon/python-datascience/tree/master/Python%20Review) - Review of basic Python concepts, and focus more specifically on skills needed for Data Science. 
 
 ## Links to Github Pages for Data Science projects
