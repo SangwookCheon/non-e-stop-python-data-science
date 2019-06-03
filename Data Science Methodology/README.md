@@ -1,7 +1,7 @@
 # Data Science Methodology
 This is not related to actual programming, but instead focused on structuring data science projects. I added useful information about the framework devleoped by IBM, and other relevant materials.
 
-## IBM Data Science
+## IBM Data Science (IBMframework folder)
 [Link to the course](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)  
 Course: Data Science Methodology
 
