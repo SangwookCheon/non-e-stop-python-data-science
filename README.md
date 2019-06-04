@@ -1,5 +1,6 @@
 # Python Data Science References 
-Creator: Sangwook Cheon 
+Created by: Sangwook Cheon 
+Start date: June 1st, 2019
 
 In this repository, I organized all the learning materials that I worked with related to Data Science, and also documented notes that I took along the way. This serves to be a refenrence guide for me when I work on Data Science projects, and hopefully will be useful to anyone who takes a look at this. 
 
