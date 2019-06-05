@@ -12,7 +12,9 @@ Some of the notebooks are not entirely created by me, as course providers prepar
 
 **Please note that this repository is actively being updated, because I am learning so many more things. If there is a folder that lacks content, it is my knowledge gap, so I am sorry for that :sweat_smile:**
 
-## Sections:  
+## Sections (Folders):  
+Note: Each folder has a README file that guides you through the content in the folder, and there are multiple subfolders in each one. I wrote down where I got the resource from along with the file name(s). 
+
 Note: All the notebooks are based on Python 3.0. Please click on 
 * [Data Processing and Analysis](https://github.com/SangwookCheon/python-datascience/tree/master/Data%20Processing%20and%20Analysis) - Processing and analyzing data to prepare for machine learning models. Uses libraries like Pandas and Matplotlib to work with data.
 * [Data Science Methodology](https://github.com/SangwookCheon/python-datascience/tree/master/Data%20Science%20Methodology) - General framework for data science projects developed by IBM. Follow this framework to work on projects effectively.
