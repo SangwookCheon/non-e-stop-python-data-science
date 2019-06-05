@@ -17,7 +17,7 @@ Note: All the notebooks are based on Python 3.0. Please click on
 * [Data Visualization](https://github.com/SangwookCheon/python-datascience/tree/master/Data%20Visualization%20with%20Python) - Visualizing data to gain initial insights.
 * [Databases and SQL](https://github.com/SangwookCheon/python-datascience/tree/master/Databases%20and%20SQL) - Managing large datasets, or Big Data, for machine learning.
 * [Machine Learning](https://github.com/SangwookCheon/python-datascience/tree/master/Machine%20Learning) - Various supervised and unsupervised machine learning models using libraries like Keras, scikit-learn, Tensorflow, etc.
-* [Mathematics]() - Mathematics useful for machine, such as Calculus, Precalculus, Linear Algebra, Statistics, etc (I have not been able to study all the subjects yet, but I will update as soon as I finish them :smile:)
+* [Mathematics](https://github.com/SangwookCheon/python-data-science/tree/master/Mathematics) - Mathematics useful for machine learning, such as Calculus, Precalculus, Linear Algebra, Statistics, etc (I have not been able to study all the subjects yet, but I will update as soon as I finish them :smile:) I used OpenStax textbooks to learn new mathematics concepts, and organized them on simple Markdown documents. 
 * [Python and Numpy](https://github.com/SangwookCheon/python-datascience/tree/master/Python%20Review) - Review of basic Python concepts, and focus more specifically on skills needed for Data Science. Comprehensive study of Numpy.
 
 ## Links to Github Pages for Data Science projects
