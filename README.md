@@ -25,3 +25,9 @@ Note: All the notebooks are based on Python 3.0. Please click on
 * [Python and Numpy](https://github.com/SangwookCheon/python-datascience/tree/master/Python%20Review) - Review of basic Python concepts, and focus more specifically on skills needed for Data Science. Comprehensive study of Numpy.
 
 ## Links to Github Pages for Data Science projects
+To be updated soon.
+
+### Contact
+School Email: 45622@jisedu.or.id  
+Personal Email: sangwookchn@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sangwook-c-974608139/
