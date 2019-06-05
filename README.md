@@ -1,5 +1,5 @@
 # Python Data Science References 
-Created by: Sangwook Cheon 
+Created by: Sangwook Cheon   
 Start date: June 1st, 2019
 
 ## Introduction  
