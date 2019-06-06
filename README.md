@@ -10,7 +10,7 @@ To clarify, this is a repository to document my progressive learning of data sci
 
 Some of the notebooks are not entirely created by me, as course providers prepared notebooks for learning. For these, I followed instructions on the notebook, and then when completed, I downloaded them. But there are many that I created by myself as a reference. In each notebook, I wrote down where the notebook was from, or wrote my name if I created the notebook.
 
-**Please note that this repository is actively being updated, so there are folders that lack content. 
+**Please note that this repository is actively being updated, so there are folders that lack content.** 
 
 ## Sections (Folders):  
 Note: Each folder has a README file that guides you through the content in the folder, and there are multiple subfolders in each one. I wrote down where I got the resource from along with the file name(s). 
